@@ -1,6 +1,6 @@
 """Docstring
 Nas condicionais, para o if ser executado, a condição tem que ser verdadeira.
-Sendo o if falso, o programa lê o elif, se for verdadeiro executa.
+Sendo o if falso, o programa desconsidera o if e vai ler o elif, se for verdadeiro executa.
 Se o elif for falso, executa o else"""
 
 # if / elif      / else
