@@ -18,7 +18,7 @@ Aula 14 - f-strings, Formatação de string com o método format;
 Aula 15 - Comando input (dados de entrada);
 Aula 16 - Condicionais: if, elif e else;
 Aula 17 - Treinamento usando as condicionais
-Aula 18 - 
+Aula 18 - Relacionais: >, <, >=, <=, ==, !=
 Aula 19 - 
 Aula 20 -
 Aula 21 -
