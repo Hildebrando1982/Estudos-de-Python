@@ -19,7 +19,7 @@ Aula 15 - Comando input (dados de entrada);
 Aula 16 - Condicionais: if, elif e else;
 Aula 17 - Treinamento usando as condicionais
 Aula 18 - Relacionais: >, <, >=, <=, ==, !=
-Aula 19 - 
+Aula 19 - Exercício condicionais
 Aula 20 -
 Aula 21 -
 Aula 22 -
