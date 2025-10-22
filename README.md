@@ -21,7 +21,7 @@ Aula 17 - Treinamento usando as condicionais;
 Aula 18 - Relacionais: >, <, >=, <=, ==, !=;
 Aula 19 - Exercício condicionais;
 Aula 20 - AND;
-Aula 21 -
+Aula 21 - OR;
 Aula 22 -
 Aula 23 -
 Aula 24 - 
