@@ -22,7 +22,7 @@ Aula 18 - Relacionais: >, <, >=, <=, ==, !=;
 Aula 19 - Exercício condicionais;
 Aula 20 - AND;
 Aula 21 - OR;
-Aula 22 -
+Aula 22 - NOT;
 Aula 23 -
 Aula 24 - 
 Aula 25 -
