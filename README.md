@@ -23,7 +23,7 @@ Aula 19 - Exercício condicionais;
 Aula 20 - String;
 Aula 21 - Int, Float;
 Aula 22 - Bool;
-Aula 23 - IN, NOT IN;
+Aula 23 - In e not in;
 Aula 24 - 
 Aula 25 -
 Aula 26 -
