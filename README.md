@@ -20,7 +20,7 @@ Aula 16 - Condicionais: if, elif e else;
 Aula 17 - Treinamento usando as condicionais;
 Aula 18 - Relacionais: >, <, >=, <=, ==, !=;
 Aula 19 - Exercício condicionais;
-Aula 20 - String;
+Aula 20 - Operadores lógicos;
 Aula 21 - And (e) or (ou) not (não)
 Aula 22 - "not" (não);
 Aula 23 - In e not in;
