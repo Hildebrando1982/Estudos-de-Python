@@ -20,9 +20,9 @@ Aula 16 - Condicionais: if, elif e else;
 Aula 17 - Treinamento usando as condicionais;
 Aula 18 - Relacionais: >, <, >=, <=, ==, !=;
 Aula 19 - Exercício condicionais;
-Aula 20 - AND;
-Aula 21 - OR;
-Aula 22 - NOT;
+Aula 20 - String;
+Aula 21 - Int, Float;
+Aula 22 - Bool;
 Aula 23 - IN, NOT IN;
 Aula 24 - 
 Aula 25 -
