@@ -23,7 +23,7 @@ Aula 19 - Exercício condicionais;
 Aula 20 - AND;
 Aula 21 - OR;
 Aula 22 - NOT;
-Aula 23 -
+Aula 23 - in, not in
 Aula 24 - 
 Aula 25 -
 Aula 26 -
