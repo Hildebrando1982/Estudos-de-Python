@@ -10,6 +10,7 @@ Aula 6 - Conversão e tipos de conversão:  str, int, float, bool;
 Aula 7 - Variáveis;
 Aula 8 - Exercício de fixação;
 Aula 9 - Operadores Aritiméticos: +, -, *, /;
+
 Aula 10 - Concatenação(+) e Repetição(*);
 Aula 11 - Precedência entre os operadores aritméticos;
 Aula 12 - Exercícios;
