@@ -37,7 +37,7 @@ Aula 17 - Treinamento usando as condicionais;
 
 Aula 18 - Relacionais: >, <, >=, <=, ==, !=;
 
-Aula 19 - Exercício condicionais;
+Aula 19 - Exercício condicionais (if e comparação);
 
 Aula 20 - Operadores lógicos;
 
