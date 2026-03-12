@@ -47,7 +47,8 @@ Aula 22 - "not" (não);
 
 Aula 23 - In e not in;
 
-Aula 24 - 
+Aula 24 - Interpolação de string com % em Python
+
 Aula 25 -
 Aula 26 -
 Aula 27 -
