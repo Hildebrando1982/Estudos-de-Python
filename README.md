@@ -53,8 +53,10 @@ Aula 25 - Formatação de strings com f-strings
 
 Aula 26 - Fatiamento de strings e a função len
 
-Aula 27 -
-Aula 28 -
+Aula 27 - Exercício: Teste seu conhecimento
+
+Aula 28 - Solução da aula 27
+
 Aula 29 -
 Aula 30 -
 Aula 31 - 
