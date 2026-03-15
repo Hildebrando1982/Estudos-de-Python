@@ -51,7 +51,8 @@ Aula 24 - Interpolação de string com % em Python
 
 Aula 25 - Formatação de strings com f-strings
 
-Aula 26 -
+Aula 26 - Fatiamento de strings e a função len
+
 Aula 27 -
 Aula 28 -
 Aula 29 -
