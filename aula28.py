@@ -23,7 +23,7 @@ if nome.strip() and idade.strip():
     if ' ' in nome:
         print('Seu nome contém espaços.')
     else:
-        print('Seu nome não contém espaços.')
-    print(f'Seu nome tem', len(nome), 'letras.')
+        print('Seu nome NÃO contém espaços.')
+    print(f'Seu nome tem {len(nome)} letras.')
 else:
     print('Desculpe, você deixou campos vazios.')
