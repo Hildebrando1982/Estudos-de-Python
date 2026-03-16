@@ -59,7 +59,8 @@ Aula 28 - Solução da aula 27
 
 Aula 29 - Introdução ao try e except para capturar erros (exceptions)
 
-Aula 30 -
+Aula 30 - Parte 1: Variáveis, constantes e complexidade de código
+
 Aula 31 - 
 Aula 32 -
 Aula 33 -
