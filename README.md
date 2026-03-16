@@ -63,8 +63,8 @@ Aula 30 - Parte 1: Variáveis, constantes e complexidade de código
 
 Aula 31 - Parte 2: Variáveis, constantes e complexidade de código
 
+Aula 32 - id - A identidade do valor que está na memória
 
-Aula 32 -
 Aula 33 -
 Aula 34 - 
 Aula 35 - 
