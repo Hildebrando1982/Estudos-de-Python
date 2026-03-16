@@ -57,7 +57,8 @@ Aula 27 - Exercício: Teste seu conhecimento
 
 Aula 28 - Solução da aula 27
 
-Aula 29 -
+Aula 29 - Introdução ao try e except para capturar erros (exceptions)
+
 Aula 30 -
 Aula 31 - 
 Aula 32 -
