@@ -65,7 +65,8 @@ Aula 31 - Parte 2: Variáveis, constantes e complexidade de código
 
 Aula 32 - id - A identidade do valor que está na memória
 
-Aula 33 -
+Aula 33 - Flags, is, is not, nome
+
 Aula 34 - 
 Aula 35 - 
 Aula 36 - 
