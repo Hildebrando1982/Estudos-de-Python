@@ -67,7 +67,8 @@ Aula 32 - id - A identidade do valor que está na memória
 
 Aula 33 - Flags, is, is not, nome
 
-Aula 34 - 
+Aula 34 - Exercícios - Enunciados
+
 Aula 35 - 
 Aula 36 - 
 Aula 37 - 
