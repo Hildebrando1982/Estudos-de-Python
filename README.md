@@ -71,7 +71,8 @@ Aula 34 - Exercícios - Enunciados
 
 Aula 35 - Solução 1 dos Exercícios Enunciados
 
-Aula 36 - 
+Aula 36 - Solução 2 dos Exercícios
+
 Aula 37 - 
 Aula 38 - 
 Aula 39 - 
