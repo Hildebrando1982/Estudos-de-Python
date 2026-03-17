@@ -69,7 +69,8 @@ Aula 33 - Flags, is, is not, nome
 
 Aula 34 - Exercícios - Enunciados
 
-Aula 35 - 
+Aula 35 - Solução 1 dos Exercícios Enunciados
+
 Aula 36 - 
 Aula 37 - 
 Aula 38 - 
