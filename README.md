@@ -77,7 +77,8 @@ Aula 37 - Solução 3 dos exercícios
 
 Aula 38 - Conversa - tipos buit-in, documentação, tipo imutáveis, métodos de strings
 
-Aula 39 - 
+Aula 39 - While e break - Estrutura de repetição (Parte 1)
+
 Aula 40 - 
 Aula 41 - 
 Aula 42 - 
