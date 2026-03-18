@@ -76,6 +76,7 @@ Aula 36 - Solução 2 dos Exercícios
 Aula 37 - Solução 3 dos exercícios
 
 Aula 38 - Conversa - tipos buit-in, documentação, tipo imutáveis, métodos de strings
+
 Aula 39 - 
 Aula 40 - 
 Aula 41 - 
