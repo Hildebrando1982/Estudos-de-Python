@@ -89,7 +89,7 @@ Aula 43 - While + While (laços internos)
 
 Aula 44 - Exercício guiado com while
 
-Aula 45 - 
+Aula 45 - Solução do exercício guiado com while
 
 Aula 46 - 
 
