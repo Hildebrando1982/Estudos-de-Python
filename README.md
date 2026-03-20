@@ -85,7 +85,7 @@ Aula 41 - Operadores de atribuição com operadores aritméticos
 
 Aula 42 - While + Continue - Pulando alguma repetição
 
-Aula 43 - 
+Aula 43 - While + While (laços internos)
 
 Aula 44 - 
 
