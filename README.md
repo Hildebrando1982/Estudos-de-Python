@@ -87,7 +87,7 @@ Aula 42 - While + Continue - Pulando alguma repetição
 
 Aula 43 - While + While (laços internos)
 
-Aula 44 - 
+Aula 44 - Exercício guiado com while
 
 Aula 45 - 
 
