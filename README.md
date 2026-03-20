@@ -81,7 +81,7 @@ Aula 39 - While e break - Estrutura de repetição (Parte 1)
 
 Aula 40 - While - Condição em detalhes
 
-Aula 41 - 
+Aula 41 - Operadores de atribuição com operadores aritméticos
 Aula 42 - 
 Aula 43 - 
 Aula 44 - 
