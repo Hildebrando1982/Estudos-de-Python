@@ -83,7 +83,7 @@ Aula 40 - While - Condição em detalhes
 
 Aula 41 - Operadores de atribuição com operadores aritméticos
 
-Aula 42 - 
+Aula 42 - While + Continue - Pulando alguma repetição
 
 Aula 43 - 
 
