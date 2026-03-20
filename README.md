@@ -91,7 +91,7 @@ Aula 44 - Exercício guiado com while
 
 Aula 45 - Solução do exercício guiado com while
 
-Aula 46 - 
+Aula 46 - Exercício guiado da calculadora
 
 Aula 47 - 
 
