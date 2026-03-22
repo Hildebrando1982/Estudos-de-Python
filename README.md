@@ -93,7 +93,7 @@ Aula 45 - Solução do exercício guiado com while
 
 Aula 46 - Exercício guiado da calculadora
 
-Aula 47 - 
+Aula 47 - While / else (Recurso Peculiar do Python)
 
 Aula 48 -
 
