@@ -3,8 +3,8 @@ frase = 'O Python é uma linguagem de programação '\
     'Python foi criado por Guido Van Rossum.'
 
 i = 0
-qte_apareceu_mais_vezes = 0
-letra_apareceu_mais_vezes = ''
+qtd_mais_apareceu = 0
+qtd_letra_mais_apareceu = ''
 
 while i < len(frase):
     letra_atual = frase[i]
@@ -15,11 +15,9 @@ while i < len(frase):
     
     qtd_atual = frase.count(letra_atual)
     
-    if qte_apareceu_mais_vezes <= qtd_atual:
-        qte_apareceu_mais_vezes = qtd_atual
-        letra_apareceu_mais_vezes = letra_atual
-        
+    if qtd_atual > qtd_mais_apareceu:
+        qtd_mais_apareceu = qtd_atual
+        qtd_letra_mais_apareceu = letra_atual
     i += 1
-print(f'A letra que apareceu mais vezes foi'
-      f' "{letra_apareceu_mais_vezes}" que apareceu'
-      f' {qte_apareceu_mais_vezes}x')
+
+print(f'A letra que mais apareceu foi "{qtd_letra_mais_apareceu}", por {qtd_mais_apareceu} vezes.')
