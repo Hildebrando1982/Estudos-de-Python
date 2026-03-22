@@ -97,7 +97,7 @@ Aula 47 - While / else (Recurso Peculiar do Python)
 
 Aula 48 - While - Qual letra apareceu mais vezes na frase? (iterando strangs com while)
 
-Aula 49 - 
+Aula 49 - Introdução ao for / in - estrutura de repetição para coisas finitas
 
 Aula 50 -
 
