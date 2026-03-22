@@ -99,7 +99,7 @@ Aula 48 - While - Qual letra apareceu mais vezes na frase? (iterando strangs com
 
 Aula 49 - Introdução ao for / in - estrutura de repetição para coisas finitas
 
-Aula 50 -
+Aula 50 - Range + for para usar intervalos de números
 
 Aula 51 -
 
