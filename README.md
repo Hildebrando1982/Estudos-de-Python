@@ -101,7 +101,7 @@ Aula 49 - Introdução ao for / in - estrutura de repetição para coisas finita
 
 Aula 50 - Range + for para usar intervalos de números
 
-Aula 51 -
+Aula 51 - Como o for funciona por baixo dos panos? (next, iter, iteravel e iterador)
 
 Aula 52 -
 
