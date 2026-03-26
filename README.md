@@ -105,7 +105,7 @@ Aula 51 - Como o for funciona por baixo dos panos? (next, iter, iteravel e itera
 
 Aula 52 - O que aprendemos com while também funciona no for (continue, break, else, etc.)
 
-Aula 53 -
+Aula 53 - Exercício - Palavra Secreta
 
 Aula 54 - 
 
