@@ -11,12 +11,15 @@ print(next(texto)) #print(texto.__next__())'''
 
 
 #for letra in texto:
-texto = 'Hildebrando' #iterável
-iterador = iter(texto) #iterador
+texto = 'Brasil' #iterável
+#iterador = iter(texto) #iterador
 
-while True:
-    try:
-        letra =next(iterador)
-        print(letra)
-    except StopIteration:
-        break
+#while True:
+#    try:
+#        letra =next(iterador)
+#        print(letra)
+#    except StopIteration:
+#        break
+
+for letra in texto:
+    print(letra)
