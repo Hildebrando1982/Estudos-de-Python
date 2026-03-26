@@ -103,7 +103,7 @@ Aula 50 - Range + for para usar intervalos de números
 
 Aula 51 - Como o for funciona por baixo dos panos? (next, iter, iteravel e iterador)
 
-Aula 52 -
+Aula 52 - O que aprendemos com while também funciona no for (continue, break, else, etc.)
 
 Aula 53 -
 
