@@ -109,7 +109,7 @@ Aula 53 - Exercício - Palavra Secreta
 
 Aula 54 - Tipo list - Introdução às listas mutáveis em Python
 
-Aula 55 - 
+Aula 55 - Alterando uma lista com índices, del, append e pop (tipo list)
 
 Aula 56 -
 
