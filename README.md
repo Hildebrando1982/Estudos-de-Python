@@ -115,7 +115,7 @@ Aula 56 - Inserindo itens em qualquer índice da lista com insert (tipo list)
 
 Aula 57 - Concatenação e estendendo listas em Python
 
-Aula 58 -
+Aula 58 - Cuidados com os tipos de dados mutáveis - list e copy
 
 Aula 59 -
 
