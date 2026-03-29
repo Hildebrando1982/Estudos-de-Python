@@ -113,7 +113,7 @@ Aula 55 - Alterando uma lista com índices, del, append e pop (tipo list)
 
 Aula 56 - Inserindo itens em qualquer índice da lista com insert (tipo list)
 
-Aula 57 -
+Aula 57 - Concatenação e estendendo listas em Python
 
 Aula 58 -
 
