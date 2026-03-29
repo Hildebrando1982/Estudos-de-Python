@@ -107,7 +107,7 @@ Aula 52 - O que aprendemos com while também funciona no for (continue, break, e
 
 Aula 53 - Exercício - Palavra Secreta
 
-Aula 54 - 
+Aula 54 - Tipo list - Introdução às listas mutáveis em Python
 
 Aula 55 - 
 
