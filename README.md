@@ -117,7 +117,7 @@ Aula 57 - Concatenação e estendendo listas em Python
 
 Aula 58 - Cuidados com os tipos de dados mutáveis - list e copy
 
-Aula 59 -
+Aula 59 - For in com tipo lista
 
 Aula 60 -
 
